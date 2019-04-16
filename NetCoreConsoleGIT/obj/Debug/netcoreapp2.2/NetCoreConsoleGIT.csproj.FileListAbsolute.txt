@@ -1,0 +1,10 @@
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\bin\Debug\netcoreapp2.2\NetCoreConsoleGIT.deps.json
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\bin\Debug\netcoreapp2.2\NetCoreConsoleGIT.runtimeconfig.json
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\bin\Debug\netcoreapp2.2\NetCoreConsoleGIT.runtimeconfig.dev.json
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\bin\Debug\netcoreapp2.2\NetCoreConsoleGIT.dll
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\bin\Debug\netcoreapp2.2\NetCoreConsoleGIT.pdb
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\obj\Debug\netcoreapp2.2\NetCoreConsoleGIT.csproj.CoreCompileInputs.cache
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\obj\Debug\netcoreapp2.2\NetCoreConsoleGIT.AssemblyInfoInputs.cache
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\obj\Debug\netcoreapp2.2\NetCoreConsoleGIT.AssemblyInfo.cs
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\obj\Debug\netcoreapp2.2\NetCoreConsoleGIT.dll
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NetCoreConsoleGIT\obj\Debug\netcoreapp2.2\NetCoreConsoleGIT.pdb

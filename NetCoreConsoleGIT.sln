@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreConsoleGIT", "NetCoreConsoleGIT\NetCoreConsoleGIT.csproj", "{49E1FC2B-4FD0-4FA8-A36F-4E553B7E10BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E1FC2B-4FD0-4FA8-A36F-4E553B7E10BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E1FC2B-4FD0-4FA8-A36F-4E553B7E10BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E1FC2B-4FD0-4FA8-A36F-4E553B7E10BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E1FC2B-4FD0-4FA8-A36F-4E553B7E10BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73993FE5-8545-4343-A089-2FA5982E2C8E}
+	EndGlobalSection
+EndGlobal

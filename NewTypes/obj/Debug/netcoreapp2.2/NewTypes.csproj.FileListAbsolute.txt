@@ -1,0 +1,10 @@
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\bin\Debug\netcoreapp2.2\NewTypes.deps.json
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\bin\Debug\netcoreapp2.2\NewTypes.runtimeconfig.json
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\bin\Debug\netcoreapp2.2\NewTypes.runtimeconfig.dev.json
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\bin\Debug\netcoreapp2.2\NewTypes.dll
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\bin\Debug\netcoreapp2.2\NewTypes.pdb
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\obj\Debug\netcoreapp2.2\NewTypes.csproj.CoreCompileInputs.cache
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\obj\Debug\netcoreapp2.2\NewTypes.AssemblyInfoInputs.cache
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\obj\Debug\netcoreapp2.2\NewTypes.AssemblyInfo.cs
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\obj\Debug\netcoreapp2.2\NewTypes.dll
+D:\Pruebas\NetCoreConsoleGIT\NetCoreConsoleGIT\NewTypes\obj\Debug\netcoreapp2.2\NewTypes.pdb
